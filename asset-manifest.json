@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wander/static/css/main.f855e6bc.css",
+    "main.js": "/wander/static/js/main.2902089e.js",
+    "static/js/453.661e0f7f.chunk.js": "/wander/static/js/453.661e0f7f.chunk.js",
+    "index.html": "/wander/index.html",
+    "main.f855e6bc.css.map": "/wander/static/css/main.f855e6bc.css.map",
+    "main.2902089e.js.map": "/wander/static/js/main.2902089e.js.map",
+    "453.661e0f7f.chunk.js.map": "/wander/static/js/453.661e0f7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2902089e.js"
+  ]
+}
